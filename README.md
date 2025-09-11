@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ Clima  
+# ⛅️ Clima  
 ### A Modern, Minimal, and Sleek Weather Dashboard  
 
 
