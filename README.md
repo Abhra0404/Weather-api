@@ -3,13 +3,11 @@
 # ☁️ Clima  
 ### A Modern, Minimal, and Sleek Weather Dashboard  
 
-<img src="./assets/preview.png" width="600" alt="Clima Preview" />  
 
 ---
 
 ![Made with Tailwind](https://img.shields.io/badge/Made%20with-TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)  
-![License](https://img.shields.io/badge/license-MIT-green)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)    
 ![Responsive](https://img.shields.io/badge/Responsive-Design-blue?logo=googlechrome)
 
 </div>
@@ -47,17 +45,3 @@ It provides **real-time conditions** and a **3-day forecast** for any city in th
 
 ---
 
-## 📸 Screenshots
-
-| 🌞 Light Mode | 🌙 Dark Mode |
-|---------------|--------------|
-| ![Light](./assets/light.png) | ![Dark](./assets/dark.png) |
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/your-username/clima.git
-cd clima
