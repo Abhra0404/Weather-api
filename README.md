@@ -4,11 +4,6 @@
 ### A Modern, Minimal, and Sleek Weather Dashboard  
 
 
----
-
-![Made with Tailwind](https://img.shields.io/badge/Made%20with-TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)    
-![Responsive](https://img.shields.io/badge/Responsive-Design-blue?logo=googlechrome)
 
 </div>
 
