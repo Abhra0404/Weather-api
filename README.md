@@ -1,7 +1,7 @@
 # Weather-api
 # ☁️ Clima - A Modern Weather Dashboard
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxx/deploy-status)](https://app.netlify.com/)  
+
 ![Made with Tailwind](https://img.shields.io/badge/Made%20with-TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)  
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -32,18 +32,3 @@ The app is **fully responsive**, ensuring a beautiful and functional experience 
 - **LocalStorage API** → Storing recent searches  
 
 ---
-
-## 📸 Screenshots
-
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light](./assets/light.png) | ![Dark](./assets/dark.png) |
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/clima.git
-   cd clima
