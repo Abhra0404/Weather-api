@@ -4,7 +4,7 @@
 
 ![Made with Tailwind](https://img.shields.io/badge/Made%20with-TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)  
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 Clima is a sleek, single-page web application designed for the modern user. With its elegant, glass-morphic UI, it provides a seamless experience for checking real-time weather and a 3-day forecast for any city in the world.  
 
